@@ -4,7 +4,7 @@ root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "us"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 humandate: "Oct 24-27, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1 - 5 pm ET"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "1 - 5 pm ET <a href='https://arewemeetingyet.com/New%20York/2022-10-24/13:00'>Start Time in your time zone</a>"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-10-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-10-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Hao Ye", "Pao Corrales", "Sarah Stevens"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
